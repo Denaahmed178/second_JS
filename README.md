@@ -1,2 +1,2 @@
 # second_JS
-academy assignment practicing javascript
+Route academy assignment practicing javascript loops
